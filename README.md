@@ -8,3 +8,5 @@ Policy-based reinforcement learning
 Python
 Deep Reinforcement Learning
 OpenAI Gym / Atari environment
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5f84315b-92c9-4970-ae3b-ccec86c932cf" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/91fe9b16-85d0-487a-b1bf-6238ae1bbec6" />
